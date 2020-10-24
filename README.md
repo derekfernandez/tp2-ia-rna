@@ -1,1 +1,1 @@
-# tp2-ia-rna
+# Inteligencia Artificial - TP2: Sistemas Inteligentes
